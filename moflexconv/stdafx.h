@@ -10,6 +10,9 @@
 #include <stdio.h>
 #include <tchar.h>
 
-
+#include <string>
+using namespace std;
 
 // TODO:  在此处引用程序需要的其他头文件
+
+extern string str2DTemplate;
